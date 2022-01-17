@@ -5,7 +5,7 @@
 * Spring Tool Suite: É um ambiente de desenvolvimento, baseado no IDE Eclipse, com um kit de ferramentas pré-instaladas para o 
 desenvolvimento de aplicações em Java utilizando tecnologias do Spring.
 
-* Java:
+* Java: Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90 por uma equipe de programadores chefiada por James Gosling, na empresa Sun Microsystems.
 
 ## Versão
 
