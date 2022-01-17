@@ -2,7 +2,8 @@
 
 ## Definição
 
-* Spring Tool Suite: 
+* Spring Tool Suite: É um ambiente de desenvolvimento, baseado no IDE Eclipse, com um kit de ferramentas pré-instaladas para o 
+desenvolvimento de aplicações em Java utilizando tecnologias do Spring.
 
 ## Versão
 
@@ -11,7 +12,12 @@
 ## Passo a Passo
 
 * Spring Tool Suite: 
-.Ir no site https://spring.io/tools
+1. Ir no site https://spring.io/tools;
+2. Escolher e Baixar **Spring Tools 4 for Eclipse** de acordo com sistema operacional que você usa;
+3. Após baixar, executar o arquivo .jar e pegar a pasta descompactada e colocala em algum pasta destino de preferencia sua;
+4. E por fim no executor do Spring Tools dentro da pasta clicar com botão direito do mause e criar atalho pra area de trabalho 
+e executar para vereficar se esta funcionado ok, caso não esteja vereficar o motivo e se estiver ok desfrute do seu programa.
+
 
 
 ## Sitema operacioal Configurado
