@@ -5,9 +5,13 @@
 * Spring Tool Suite: É um ambiente de desenvolvimento, baseado no IDE Eclipse, com um kit de ferramentas pré-instaladas para o 
 desenvolvimento de aplicações em Java utilizando tecnologias do Spring.
 
+* Java:
+
 ## Versão
 
 * Spring Tool Suite: 4.13.0
+
+* Java:  8 Update 311
 
 ## Passo a Passo
 
@@ -18,6 +22,13 @@ desenvolvimento de aplicações em Java utilizando tecnologias do Spring.
 4. E por fim no executor do Spring Tools dentro da pasta clicar com botão direito do mause e criar atalho pra area de trabalho 
 e executar para vereficar se esta funcionado ok, caso não esteja vereficar o motivo e se estiver ok desfrute do seu programa.
 
+* Java: 
+1. Ir no site https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR;
+2. Clicar em baixar;
+3. Executar o instalador;
+4. clicar em instalar;
+5. Escolher pasta destino e avançar;
+6. Finalizar.
 
 
 ## Sitema operacioal Configurado
