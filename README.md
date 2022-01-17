@@ -42,7 +42,29 @@ e executar para vereficar se esta funcionado ok, caso não esteja vereficar o mo
 2. Escolher a primeira opção;
 3. Vai para um site que pede login mas não precisa e so ir na area que esta escrito **No thanks, just start my download** que está
 abaixo em azul;
-4. 
+4. Executar e em seguida o instalador nos oferece 5 opções de instalação:
+Padrão de desenvolvedor: inclui o servidor Mysql, ferramentas como Shell, Router e Workbench, conectores, etc.
+Somente o servidor
+Somente cliente: não instala o servidor MySQL
+Completo: Tudo!
+Personalizado
+Escolha o que preferir e clique em Next.
+5. Antes de avaçar clique em Execute para instalar os programas necessarios para um bom funcionamento e depois de Next.
+6. Clique em execute para instalar todas funcionalidades do MySQL e depois de Next;
+7. Da Next de novo;
+8. Nesta etapa caso queria pode alterar as configurações mas exteja ciente do que estava fazendo apos isso clique em Next.
+9. Nessa pagina manter e dar Next;
+10. A tela seguinte pede para definirmos uma senha para o usuário root, ou seja, o usuário administrador e  tambem criamos nossa 
+conta após fazer isso dar Next;
+11. Nessa pagina manter como esta e dar Next;
+12. Nessa pagina Exutar e finalizar.
+13. após isso dar  Next novamento;
+14. finaliza;
+15. após isso dar  Next novamento;
+16. Nessa pagina Testa sua conecção e da Next;
+17. nessa pagina executa e depois finaliza;
+18. apos isso da Next e por fim finaliza e termina a instalação.
+
 
 ## Sitema operacioal Configurado
 
