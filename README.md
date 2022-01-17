@@ -13,5 +13,5 @@
 
 ## Sitema operacioal Configurado
 
-Windows 10 para todos os programas litados acima.
+Windows 10 para todos os programas listados acima.
 
