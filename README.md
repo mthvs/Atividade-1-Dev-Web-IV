@@ -66,7 +66,7 @@ conta após fazer isso dar Next;
 18. apos isso da Next e por fim finaliza e termina a instalação.
 
 
-## Sitema operacioal Configurado
+## Sistema operacioal Configurado
 
 Windows 10 para todos os programas listados acima.
 
