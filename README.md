@@ -11,7 +11,7 @@
 ## Passo a Passo
 
 * Spring Tool Suite: 
-. Ir no site https://spring.io/tools
+.Ir no site https://spring.io/tools
 
 
 ## Sitema operacioal Configurado
