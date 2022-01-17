@@ -4,12 +4,13 @@
 
 * Spring Tool Suite: 
 
-
 ## Versão
 
+* Spring Tool Suite: 4.13.0
 
 ## Passo a Passo
 
+* Spring Tool Suite: * ir no site https://spring.io/tools
 
 ## Sitema operacioal Configurado
 
