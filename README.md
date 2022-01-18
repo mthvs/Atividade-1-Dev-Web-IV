@@ -8,15 +8,17 @@ desenvolvimento de aplicações em Java utilizando tecnologias do Spring.
 * Java: Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90 por uma equipe de programadores chefiada 
 por James Gosling, na empresa Sun Microsystems.
 
-* MySQL:  é um sistema gerenciador de banco de dados relacional de código aberto usado na maioria das aplicações gratuitas para gerir 
+* MySQL: É um sistema gerenciador de banco de dados relacional de código aberto usado na maioria das aplicações gratuitas para gerir 
 suas bases de dados. O MySQL utiliza a linguagem SQL (Structure Query Language – Linguagem de Consulta Estruturada), que é a linguagem 
 mais popular para inserir, acessar e gerenciar o conteúdo armazenado num banco de dados.
 
-* Git: é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar 
+* Git: É um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar 
 o histórico de edições de qualquer tipo de arquivo.
 
 * Node.js: Node.js é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos 
 JavaScript fora de um navegador web.
+
+* Postman: É uma ferramenta que tem como objetivo testar serviços RESTful (Web APIs) por meio do envio de requisições HTTP e da análise do seu retorno.
 
 
 ## Versão
@@ -30,6 +32,8 @@ JavaScript fora de um navegador web.
 * Git: 2.34.1
 
 * Node.js: 16.13.2
+
+* Postman: Version 9.8.3
 
 
 ## Passo a Passo
@@ -88,12 +92,17 @@ conta após fazer isso dar Next;
 
 * Node.js:
 1. Ir no site https://nodejs.org/en/download/;
-2. Baixar  e executar.
+2. Baixar  e executar;
 3. na primeira parte dar next;
 4. na segunda aceitar termos de uso e dar next;
 5. escolher pagina que deseja instalar e dar next;
 6. apos isso nas demais e so continar dando next e instalar;
 7. e por fim finalisar a instalação.
+
+* Postman:
+1. Ir no site https://www.postman.com/downloads/?utm_source=postman-home;
+2. Baixar  e executar e pronto ja pode usar;
+
 
 ## Sistema operacioal Configurado
 
