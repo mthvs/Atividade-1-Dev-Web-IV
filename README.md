@@ -20,6 +20,8 @@ JavaScript fora de um navegador web.
 
 * Postman: É uma ferramenta que tem como objetivo testar serviços RESTful (Web APIs) por meio do envio de requisições HTTP e da análise do seu retorno.
 
+* Httpie: É um cliente HTTP de linha de comando que visa tornar a interação da CLI com os serviços da web o mais amigável possível para o ser 
+humano. HTTPie é projetado para testar, depurar e, geralmente, interagir com servidores HTTP e APIs.
 
 ## Versão
 
@@ -35,6 +37,7 @@ JavaScript fora de um navegador web.
 
 * Postman: Version 9.8.3
 
+* Httpie: Version 2022.2.0
 
 ## Passo a Passo
 
@@ -102,6 +105,11 @@ conta após fazer isso dar Next;
 * Postman:
 1. Ir no site https://www.postman.com/downloads/?utm_source=postman-home;
 2. Baixar  e executar e pronto ja pode usar;
+
+* Httpie:
+1. Ir no site https://httpie.io/download;
+2. Baixar  e executar ;
+3. Avançar e apos isso instalar.
 
 
 ## Sistema operacioal Configurado
