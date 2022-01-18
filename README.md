@@ -12,6 +12,12 @@ por James Gosling, na empresa Sun Microsystems.
 suas bases de dados. O MySQL utiliza a linguagem SQL (Structure Query Language – Linguagem de Consulta Estruturada), que é a linguagem 
 mais popular para inserir, acessar e gerenciar o conteúdo armazenado num banco de dados.
 
+* Git: é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar 
+o histórico de edições de qualquer tipo de arquivo.
+
+* Node.js:
+
+
 ## Versão
 
 * Spring Tool Suite: 4.13.0
@@ -19,6 +25,11 @@ mais popular para inserir, acessar e gerenciar o conteúdo armazenado num banco 
 * Java:  8 Update 311
 
 * MySQL: 8.0.27
+
+* Git: 2.34.1
+
+* Node.js:
+
 
 ## Passo a Passo
 
@@ -65,6 +76,16 @@ conta após fazer isso dar Next;
 17. nessa pagina executa e depois finaliza;
 18. apos isso da Next e por fim finaliza e termina a instalação.
 
+* Git:
+1. I no site https://git-scm.com/download/win
+2. Baixar a versão compativel com seu win;
+3. na primeira parte da Next;
+4. na segunda escolha onde quer instalar e da next;
+5. na terceira manter como está e dar next;
+6. A partir dai so continar dando next até o final;
+7. e por fim finalisar a instalação.
+
+* Node.js:
 
 ## Sistema operacioal Configurado
 
