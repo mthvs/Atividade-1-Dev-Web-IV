@@ -15,7 +15,8 @@ mais popular para inserir, acessar e gerenciar o conteúdo armazenado num banco 
 * Git: é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar 
 o histórico de edições de qualquer tipo de arquivo.
 
-* Node.js:
+* Node.js: Node.js é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos 
+JavaScript fora de um navegador web.
 
 
 ## Versão
@@ -28,7 +29,7 @@ o histórico de edições de qualquer tipo de arquivo.
 
 * Git: 2.34.1
 
-* Node.js:
+* Node.js: 16.13.2
 
 
 ## Passo a Passo
@@ -77,7 +78,7 @@ conta após fazer isso dar Next;
 18. apos isso da Next e por fim finaliza e termina a instalação.
 
 * Git:
-1. I no site https://git-scm.com/download/win
+1. Ir no site https://git-scm.com/download/win;
 2. Baixar a versão compativel com seu win;
 3. na primeira parte da Next;
 4. na segunda escolha onde quer instalar e da next;
@@ -86,6 +87,13 @@ conta após fazer isso dar Next;
 7. e por fim finalisar a instalação.
 
 * Node.js:
+1. Ir no site https://nodejs.org/en/download/;
+2. Baixar  e executar.
+3. na primeira parte dar next;
+4. na segunda aceitar termos de uso e dar next;
+5. escolher pagina que deseja instalar e dar next;
+6. apos isso nas demais e so continar dando next e instalar;
+7. e por fim finalisar a instalação.
 
 ## Sistema operacioal Configurado
 
